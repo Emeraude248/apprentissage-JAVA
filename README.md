@@ -1,3 +1,3 @@
 # apprentissage-JAVA
 
-premier test : variable, print
+premier test : variable, print ; if, switch ;
